@@ -1,4 +1,4 @@
-# 🌾 Smart Agriculture WebSocket Monitoring System
+#  Smart Agriculture WebSocket Monitoring System
 
 > **Module 5 — Internet of Things and Model Integration with WebSocket**  
 > Real-time IoT dashboard demonstrating full-duplex WebSocket communication between simulated IoT sensors and a live web dashboard.
@@ -16,7 +16,7 @@
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -54,7 +54,7 @@
 
 ---
 
-## 🔄 Data Flow (Part B)
+## Data Flow (Part B)
 
 ```
 1. SENSOR DATA GENERATION
@@ -85,7 +85,7 @@
 
 ---
 
-## 🤖 Model Integration (Part C)
+## Model Integration (Part C)
 
 ### Input Data
 The model receives four sensor readings per inference cycle:
@@ -125,7 +125,7 @@ WebSocket dramatically improves scalability and performance in IoT systems compa
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Node.js** v16 or higher
@@ -144,7 +144,7 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 smart-agriculture-websocket-monitoring-system/
@@ -160,7 +160,7 @@ smart-agriculture-websocket-monitoring-system/
 
 ---
 
-## 📊 Assessment Rubric Alignment
+## Assessment Rubric Alignment
 
 | Criteria | Implementation |
 |---|---|
