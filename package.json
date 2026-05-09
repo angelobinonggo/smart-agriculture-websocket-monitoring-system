@@ -1,0 +1,16 @@
+{
+  "name": "smart-agriculture-websocket-monitoring-system",
+  "version": "1.0.0",
+  "description": "Real-time IoT Smart Agriculture Monitoring System using WebSocket",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js"
+  },
+  "keywords": ["websocket", "iot", "agriculture", "real-time", "monitoring"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
